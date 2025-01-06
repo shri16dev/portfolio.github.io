@@ -10,7 +10,7 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 ### **SUGARCANE MANAGEMENT SYSTEM**  
 _Our project, the Sugarcane Management System, aims to revolutionize the sugarcane industry. By streamlining communication between farmers, factories, and drivers, this system optimizes crop delivery, production scheduling, and logistics._  
 
-[![Project Screenshot](photos/cane-final.png)](https://example.com)  
+[Project Screenshot](photos/cane-final.png) 
 [Learn More About This Project](https://example.com)
 
 > _"Efficiency is doing things right; effectiveness is doing the right things."_
