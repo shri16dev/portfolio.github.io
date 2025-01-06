@@ -5,7 +5,7 @@
 I am passionate about technology and problem-solving. Here's a glimpse of my work:
 
 ## 🛠️ Projects
-- **Project 1**: A short description of your project.
+- **SUGARCANE MANAGEMENT SYSTEM**: Our project, the Sugarcane Management System, is designed to revolutionize the sugarcane industry by seamlessly connecting farmers, sugarcane factories, and drivers. The platform streamlines operations, enabling farmers to efficiently manage crop deliveries, factories to optimize production scheduling, and drivers to navigate hassle-free logistics. By fostering real-time communication and data-driven decision-making, we aim to enhance productivity, reduce delays, and build a more collaborative ecosystem for all stakeholders in the sugarcane supply chain.
 
 ## 🚀 Skills
 - C++, Python, JavaScript
