@@ -80,5 +80,5 @@ I am a **Full Stack Developer** with a passion for creating efficient and scalab
 
 Feel free to reach out for collaborations or job opportunities:
 
-- 📧 **Email**: [srikar@example.com](mailto:srikar@example.com)
-- 📱 **Phone**: +1 234-567-890
+- 📧 **Email**: [srikarkulkarni@gmail.com](mailto:srikarkulkarni@gmail.comm)
+- 📱 **Phone**: +91 234-567-890
