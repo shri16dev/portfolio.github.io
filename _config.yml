@@ -1,9 +1,9 @@
 # _config.yml
-
-# General Site Information
-title: Srikar Kulkarni's Portfolio
-description: "Showcasing my passion for technology, coding, and problem-solving."
+title: Your Portfolio Title
+description: A description of your portfolio or the purpose of your site.
 theme: jekyll-theme-cayman
+# General Site Information
+
 
 # SEO Meta Tags for Search Engine Optimization
 seo:
