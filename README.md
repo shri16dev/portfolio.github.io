@@ -6,7 +6,6 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 
 ## 🛠️ Projects
 - **Project 1**: A short description of your project.
-- **Project 2**: A short description of another project.
 
 ## 🚀 Skills
 - C++, Python, JavaScript
@@ -14,7 +13,7 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 - Web Development (React.js, Node.js)
 
 ## 🌐 Find Me Online
-- [GitHub](https://github.com/your-github-username)
+- [GitHub](https://github.com/shri16dev)
 - [LinkedIn](https://linkedin.com/in/your-linkedin-profile)
 
 ## Portfolio Topic
@@ -30,21 +29,21 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 
 <dl>
 <dt>Course Name</dt>
-<dd>Algorithmic Problem Solving</dd>
+<dd>Design and Analysis of Algorithm</dd>
 <dt>Course Code</dt>
-<dd>Course Code Placeholder</dd>
+<dd>24ECSC205</dd>
 <dt>Name</dt>
-<dd>Your Name</dd>
+<dd>Srikar Kulkarni</dd>
 <dt>SRN</dt>
-<dd>Your SRN</dd>
+<dd>02FE23BCS167</dd>
 <dt>Course Instructor</dt>
-<dd>Instructor Name Placeholder</dd>
+<dd>Prof.Vaishali parab</dd>
 <dt>University</dt>
-<dd>Your University Name</dd>
+<dd>KLE Technological University,Belagavi</dd>
 <dt>Portfolio Topic/Domain</dt>
-<dd>Google</dd>
+<dd>Sugarcane Management System</dd>
 </dl>
 
 <br> 
-> “The only way to do great work is to love what you do.” – Steve Jobs
+>  “Pressure is a privilege” - Virgil van Dijk
 >
