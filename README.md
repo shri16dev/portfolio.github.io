@@ -55,8 +55,6 @@ Here are some of the key projects I’ve worked on:
 | Project Name        | Description                                             | Link                                   |
 | ------------------- | ------------------------------------------------------- | -------------------------------------- |
 | **Sugarcane System** | An optimized system for managing the sugarcane supply chain | [View Project](https://example.com)    |
-| **E-Commerce Platform** | A full-stack e-commerce solution with payment integration | [View Project](https://example.com)    |
-| **AI Chatbot**       | AI-based customer support bot for businesses             | [View Project](https://example.com)    |
 
 ---
 
