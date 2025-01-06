@@ -1,36 +1,49 @@
 # _config.yml
 
 title: Srikar Kulkarni's Portfolio
-description: A passionate developer showcasing my skills, projects, and experience.
+description: Showcasing my passion for technology, coding, and problem-solving.
 theme: jekyll-theme-cayman
 
-# Theme Customization (Optional)
+# Theme Customization
 theme_settings:
-  accent_color: "#4CAF50"  # Green Accent color for buttons/links
-  background_color: "#f4f4f4"  # Light grey background
-  text_color: "#333"  # Dark text for better readability
+  accent_color: "#FF5722"  # Bright accent color for buttons, links, etc.
+  background_color: "#FFFFFF"  # White background for clean look
+  text_color: "#333"  # Dark text for readability
   link_color: "#2196F3"  # Blue links for contrast
-  header_color: "#333"  # Dark header for a clean look
+  header_color: "#111"  # Dark header color to make navigation stand out
+  footer_color: "#FF5722"  # Footer with accent color
+  navbar_transparent: true  # Make navbar transparent for modern look
 
 # Social Media Links
 social_links:
   github: "https://github.com/shri16dev"
   linkedin: "https://linkedin.com/in/your-linkedin-profile"
   twitter: "https://twitter.com/your-twitter-profile"
+  personal_website: "https://yourportfolio.com"
+  medium: "https://medium.com/@yourprofile"
 
-# Navigation Links (Optional, for customizing site navigation)
+# Navigation Links
 nav_links:
   - label: "Home"
     url: "/"
   - label: "Projects"
     url: "/#projects"
+  - label: "Skills"
+    url: "/#skills"
   - label: "About"
     url: "/#about"
   - label: "Contact"
     url: "/#contact"
 
-# Blog Configurations (Optional, if you wish to add a blog)
+# Enable Search Feature (Jekyll Search)
+search:
+  enabled: true
+
+# Blog Settings (Optional, if you want to add a blog section)
 blog:
   enabled: true
   posts_per_page: 5
+  show_excerpts: true
 
+# Google Analytics for tracking (Optional)
+google_analytics: "UA-XXXXXXXXX-X"
