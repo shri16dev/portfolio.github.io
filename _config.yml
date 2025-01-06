@@ -1,3 +1,36 @@
-title: Your Portfolio Title
-description: A description of your portfolio or the purpose of your site.
+# _config.yml
+
+title: Srikar Kulkarni's Portfolio
+description: A passionate developer showcasing my skills, projects, and experience.
 theme: jekyll-theme-cayman
+
+# Theme Customization (Optional)
+theme_settings:
+  accent_color: "#4CAF50"  # Green Accent color for buttons/links
+  background_color: "#f4f4f4"  # Light grey background
+  text_color: "#333"  # Dark text for better readability
+  link_color: "#2196F3"  # Blue links for contrast
+  header_color: "#333"  # Dark header for a clean look
+
+# Social Media Links
+social_links:
+  github: "https://github.com/shri16dev"
+  linkedin: "https://linkedin.com/in/your-linkedin-profile"
+  twitter: "https://twitter.com/your-twitter-profile"
+
+# Navigation Links (Optional, for customizing site navigation)
+nav_links:
+  - label: "Home"
+    url: "/"
+  - label: "Projects"
+    url: "/#projects"
+  - label: "About"
+    url: "/#about"
+  - label: "Contact"
+    url: "/#contact"
+
+# Blog Configurations (Optional, if you wish to add a blog)
+blog:
+  enabled: true
+  posts_per_page: 5
+
