@@ -45,6 +45,6 @@ Here are some of the key projects I’ve worked on:
 
 | Project Name        | Description                                             | Link                                   |
 | ------------------- | ------------------------------------------------------- | -------------------------------------- |
-| **Sugarcane System** | An optimized system for managing the sugarcane supply chain | [View Project](https://example.com)    |
+| **Sugarcane System** | An optimized system for managing the sugarcane supply chain | [View Project](README.md)    |
 
 ---
