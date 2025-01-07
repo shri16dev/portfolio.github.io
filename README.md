@@ -83,7 +83,7 @@ void farmer() {
 ```
 ---
 ## Skills Demonstrated
-- **C++ File Handling:
+- **C++ File Handling**:
   - Reading and writing data to/from files like `FARMERS.txt`, `VILLAGES.txt`, and `TRUCKREQUEST.txt`.
 - **Algorithm Design**:  
   - Implemented robust searching and recommendation algorithms for villages and factories.
