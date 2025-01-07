@@ -11,7 +11,7 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 _Our project, the Sugarcane Management System, aims to revolutionize the sugarcane industry. By streamlining communication between farmers, factories, and drivers, this system optimizes crop delivery, production scheduling, and logistics._  
 
 <p align="center">
-  <img src="https://github.com/jiyapalrecha35/Google.github.io/blob/main/images/Screenshot%202024-07-05%20141324.png?raw=true" alt="Google Infrastructure Screenshot">
+  <img src="https://github.com/shri16dev/portfolio.github.io/blob/main/codes/cane-final.png?raw=true" alt="Google Infrastructure Screenshot">
   <br>
   [5] Google and the various services provided
   <br>
