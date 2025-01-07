@@ -81,6 +81,25 @@ void farmer() {
     cout << "Truck request generated successfully!\n";
 }
 ```
+---
+## Skills Demonstrated
+- **C++ File Handling:
+  - Reading and writing data to/from files like `FARMERS.txt`, `VILLAGES.txt`, and `TRUCKREQUEST.txt`.
+- **Algorithm Design**:  
+  - Implemented robust searching and recommendation algorithms for villages and factories.
+- **User Experience**:  
+  - Designed intuitive prompts and interfaces for farmers to interact with the system.
+
+## Challenges Overcome
+- Ensured accurate matching for village names despite potential typos or incomplete inputs.
+- Managed complex data dependencies across multiple files while maintaining data consistency.
+- Enhanced security by masking password inputs during login.
+
+## Impact
+My contributions to the project added key functionalities for farmers, enabling:
+- Secure and efficient access to the system.
+- Seamless truck assignment and transport management.
+- Improved logistics with intelligent factory recommendations.
 
 > _"Efficiency is doing things right; effectiveness is doing the right things."_
 
